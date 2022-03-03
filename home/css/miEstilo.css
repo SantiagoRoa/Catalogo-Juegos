@@ -1,0 +1,76 @@
+header,footer{
+  background: #8BFF24;
+  color: #000;
+}
+
+aside.aside_mi{
+  background: #44FF1E ;
+  color: #fff;
+
+}
+label{
+  color: #fff;
+}
+article{
+  background: #E8E8E8;
+
+}
+
+body {
+		background: #000;
+    background-size: cover;
+
+	}
+
+
+
+#particles-js{
+  height: 100vh;
+  width: 100%;
+  position: fixed;
+  z-index: -1;
+}
+
+
+
+.color1{
+  background: #1176FF ;
+  color: #fff;
+}
+.color2{
+  background: #E8E8E8;
+}
+.bg-darker{
+    background-color: #1b1c1d ;
+}
+
+.title{
+    font-size: xx-large;
+}
+
+.price{
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.info{
+    font-size: x-large;
+}
+
+.airmill{
+    font-family: airmill, Helvetica, sans-serif;
+}
+
+.airmill-o{
+    font-family: airmill-o, Helvetica, sans-serif;
+}
+
+@font-face {
+    font-family: airmill;
+    src: url("../fonts/air_mitalic.ttf") format("opentype");
+}
+
+@font-face {
+    font-family: airmill-o;
+    src: url("../fonts/airmill_o.ttf") format("opentype");
+}
