@@ -1,5 +1,6 @@
 # Catálogo de Juegos
 ## Proyecto final Modelos de Programación 2
+### Universidad Distrital Francisco José de Caldas
 
 ## Miembros del equipo
 - Nelson Santiago Roa Garzón - 20172020099 
